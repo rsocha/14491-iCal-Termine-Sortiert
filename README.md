@@ -44,8 +44,12 @@ Der Baustein liest ein ics File von einer url aus und gibt diese Aufbereitet aus
 ### Change Log
 
 
- - v0.1
-   - Initial
+   - v.03
+     - div. Anpassungen wenn Datum mit Uhrzeit
+   - v.02
+     - Codierung Umlaute
+   - v0.1
+     - Initial
 
     
 

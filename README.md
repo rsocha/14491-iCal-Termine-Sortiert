@@ -4,6 +4,8 @@
 
 Der Baustein liest ein ics File von einer url aus und gibt diese Aufbereitet aus. z.B. für Muellabfuhr. Der naechste faellige Termin steht immer als erstes.
 
+Spenden sind gerne [hier](https://www.paypal.com/paypalme/reinhardsocha) willkommen
+
 ## Eingänge
 
 | Nr. | Name              | Initialisierung   | Beschreibung                                                                                          |
